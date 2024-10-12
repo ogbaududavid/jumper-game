@@ -6,8 +6,10 @@ up the random word. When a player's guess is wrong, a part of their parachute is
 intact and the letter is revealed in its correct position in the word. The aim of this game is to help improve spelling and literacy.
 
 # Youtube link
+[Software Demo Video](https://youtu.be/ktGhQAom-lo)
 
-[Software Demo Video](http://youtube.link.goes.here)
+# Github link
+https://github.com/ogbaududavid/jumper-game
 
 # Development Environment
 This game was developed using c#
