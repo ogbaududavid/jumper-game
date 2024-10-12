@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\c# Tutorials\\JumperGame\\JumperGame.csproj": {}
+    "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\jumper-game\\JumperGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\c# Tutorials\\JumperGame\\JumperGame.csproj": {
+    "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\jumper-game\\JumperGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\c# Tutorials\\JumperGame\\JumperGame.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\jumper-game\\JumperGame.csproj",
         "projectName": "JumperGame",
-        "projectPath": "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\c# Tutorials\\JumperGame\\JumperGame.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\jumper-game\\JumperGame.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\c# Tutorials\\JumperGame\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\BYUI\\2024 3 Semester\\CSE 310 - Applied Programming\\jumper-game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

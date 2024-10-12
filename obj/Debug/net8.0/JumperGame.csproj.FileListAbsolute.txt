@@ -12,3 +12,18 @@ C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\c# Tuto
 C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\c# Tutorials\JumperGame\obj\Debug\net8.0\JumperGame.pdb
 C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\c# Tutorials\JumperGame\obj\Debug\net8.0\JumperGame.genruntimeconfig.cache
 C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\c# Tutorials\JumperGame\obj\Debug\net8.0\ref\JumperGame.dll
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\bin\Debug\net8.0\JumperGame.exe
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\bin\Debug\net8.0\JumperGame.deps.json
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\bin\Debug\net8.0\JumperGame.runtimeconfig.json
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\bin\Debug\net8.0\JumperGame.dll
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\bin\Debug\net8.0\JumperGame.pdb
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\JumperGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\JumperGame.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\JumperGame.AssemblyInfo.cs
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\JumperGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\JumperGame.sourcelink.json
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\JumperGame.dll
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\refint\JumperGame.dll
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\JumperGame.pdb
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\JumperGame.genruntimeconfig.cache
+C:\Users\USER\Desktop\BYUI\2024 3 Semester\CSE 310 - Applied Programming\jumper-game\obj\Debug\net8.0\ref\JumperGame.dll

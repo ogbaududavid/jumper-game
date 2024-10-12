@@ -122,6 +122,7 @@ class Jumper
                 return false;
             }
         }
+        PrintMatch();
         Console.WriteLine("Congratulations! You won!"); // Notify player of victory
         return true; // Player has won
     }
