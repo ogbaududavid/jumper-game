@@ -44,6 +44,7 @@ class Jumper
     // Variables to store the current word, game state, and guesses
     private static string word;
     private static bool isGameOver;
+    private static string name;
     private static HashSet<char> correctGuesses = new HashSet<char>();
     private static HashSet<char> guessedLetters = new HashSet<char>();
 
@@ -53,6 +54,15 @@ class Jumper
         Random random = new Random();
         int randomIndex = random.Next(words.Length);
         word = words[randomIndex].ToLower(); // Convert to lowercase for consistency
+    }
+
+    private static void GetPlayerName()
+    {
+        do {
+            Console.Write("Enter your name: ");
+            name = Console.ReadLine().ToLower();
+        } while (name.Length < 1);
+        
     }
 
     // Method to draw the parachute
@@ -134,13 +144,26 @@ class Jumper
         {
             Console.WriteLine("Game Over!");
             Console.WriteLine($"The hidden word is {word}"); // Reveal the word
+            WriteToFile();
+            Console.WriteLine($"It's okay to fail. We have a special message for you. Check the '{name}.txt' file to read it.");
             isGameOver = true; // Set the game state to over
         }
+    }
+
+    //Writes and stores an encouragement message to a file when the player fails the game
+    private static void WriteToFile()
+    {
+        string filePath = $"{name}.txt";
+        string content = $"Hello, {char.ToUpper(name[0])}{name.Substring(1).ToLower()}. You did great playing the game. It's okay to try and fail. You can always try again. Don't give up!";
+
+
+        File.WriteAllText(filePath, content);
     }
 
     // Method to start and run the game
     public void StartGame()
     {
+        GetPlayerName(); // Get the name of the player
         GetRandomWord(); // Select a random word
         isGameOver = false; // Initialize game state
 
